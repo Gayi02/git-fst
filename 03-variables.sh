@@ -1,4 +1,6 @@
 #!/bin/bash
+DATE=$(Date)
+echo "Date and Time is :{$DATE}
 
 person1=$1
 person2=$2
